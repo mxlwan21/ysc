@@ -1,9 +1,9 @@
 {
 "storeHouse": [
 
-{"sourceName": "🎯硬是仓🎯","sourceUrl": "https://codeberg.org/mxlwan21/ysc/raw/branch/main/ysc.json"},
-{"sourceName": "🎯宗和仓🎯","sourceUrl": "https://codeberg.org/mxlwan21/ysc/raw/branch/main/zhc.json"},
-{"sourceName": "🎯富力仓🎯","sourceUrl": "https://codeberg.org/mxlwan21/ysc/raw/branch/main/flc.json"}
+{"sourceName": "🎯硬是仓🎯","sourceUrl": "https://raw.githubusercontent.com/mxlwan21/ysc/main/ysc.json"},
+{"sourceName": "🎯宗和仓🎯","sourceUrl": "https://raw.githubusercontent.com/mxlwan21/ysc/main/zhc.json"},
+{"sourceName": "🎯富力仓🎯","sourceUrl": "https://raw.githubusercontent.com/mxlwan21/ysc/main/flc.json"}
 
 ]
 }
